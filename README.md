@@ -3,7 +3,6 @@ Công cụ giúp người dùng ghi chép thu chi hàng ngày và trực quan h�
 
 
 
-Nguyễn Ngọc Ánh - MSSV:25S1020011 - GitHub: https://github.com/ngocanh131027-stack/
 ## Danh sách thành viên
 1. Nguyễn Đan Giang - MSSV: 25S1020025 - GitHub: https://github.com/nguyengiang-ndg
 2. Nguyễn Ngọc Ánh - MSSV: 25S1020011 - GitHub: https://github.com/ngocanh131027-stack/
