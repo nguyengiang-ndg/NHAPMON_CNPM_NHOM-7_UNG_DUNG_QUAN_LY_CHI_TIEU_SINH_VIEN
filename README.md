@@ -6,12 +6,12 @@ Công cụ giúp người dùng ghi chép thu chi hàng ngày và trực quan h�
 
 ## Thành viên nhóm
 
-| STT | Họ và tên             | MSSV       | GitHub                                       | Phụ trách           |
-| --- | --------------------- | ---------- | -------------------------------------------- | ------------------- |
-| 1   | Nguyễn Đan Giang      | 25S1020025 | <https://github.com/thanhhuyen270107-source> | Scrum Master        |
-| 2   | Nguyễn Khánh Linh     | 25S1020060 | <https://github.com/khanhlinhtl07-dotcom>    | (Phụ trách)         |
-| 3   | Huỳnh Thị Thanh Huyên | 25S1020047 | <https://github.com/thanhhuyen270107-source> | Form nhập giao dịch |
-| 4   | Nguyễn Ngọc Anh       | *(MSSV)*   | <https://github.com/ngocanh131027-stack>     | *(Phụ trách)*       |
+| STT | Họ và tên        | MSSV       | GitHub                                                 | Phụ trách     |
+| --- | ---------------- | ---------- | ------------------------------------------------------ | ------------- |
+| 1   | Nguyễn Đan Giang | 25S1020025 | <https://github.com/nguyengiang-ndg>                   | Scrum Master  |
+| 2   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
+| 3   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
+| 4   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
 
 ## Công nghệ dự kiến
 
@@ -43,4 +43,3 @@ Trước khi bắt đầu việc mới, luôn cập nhật code mới nhất:
 git checkout main
 git pull origin main
 ```
-
