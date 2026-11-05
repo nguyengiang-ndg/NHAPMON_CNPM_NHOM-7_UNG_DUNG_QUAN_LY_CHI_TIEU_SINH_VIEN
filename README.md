@@ -9,8 +9,11 @@ Công cụ giúp người dùng ghi chép thu chi hàng ngày và trực quan h�
 | STT | Họ và tên        | MSSV       | GitHub                                                 | Phụ trách     |
 | --- | ---------------- | ---------- | ------------------------------------------------------ | ------------- |
 | 1   | Nguyễn Đan Giang | 25S1020025 | <https://github.com/nguyengiang-ndg>                   | Scrum Master  |
+ feature/add-my-info-thanhhuyen
 | 2   | Huỳnh Thị Thanh Huyền | 25S1020047  | <https://github.com/thanhhuyen270107-source> | Form nhập giao dịch |
 | 3   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
+| 2   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
+| 3   | Nguyễn Ngọc Ánh  | 25S1020011 | <https://github.com/ngocanh131027-stack>               | Doanh mục & Ngân sách |
 | 4   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
 
 ## Công nghệ dự kiến
