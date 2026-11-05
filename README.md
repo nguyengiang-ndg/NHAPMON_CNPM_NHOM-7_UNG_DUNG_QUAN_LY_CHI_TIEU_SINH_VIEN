@@ -11,11 +11,8 @@ Công cụ giúp người dùng ghi chép thu chi hàng ngày và trực quan h�
 | 1   | Nguyễn Đan Giang | 25S1020025 | <https://github.com/nguyengiang-ndg>                   | Scrum Master  |
 | 2   | Huỳnh Thị Thanh Huyền | 25S1020047 | <https://github.com/thanhhuyen270107-source> | Form nhập giao dịch |
 | 3   | Nguyễn Ngọc Ánh  | 25S1020011 | <https://github.com/ngocanh131027-stack>               | Doanh mục & Ngân sách |
-| 4   | *(Họ và tên)*    | *(MSSV)*   | [@github-username](https://github.com/github-username) | *(Phụ trách)* |
-
-## Công nghệ dự kiến
-
-- Ngôn ngữ / Framework: *(điền sau khi nhóm chốt)*
+| 4   | Nguyễn Khánh Linh| 25S1020060 |<https://github.com/khanhlinhtl07-dotcom>               | Đăng nhập và trang tổng quan|
+- Framework: *(điền sau khi nhóm chốt)*
 - Cơ sở dữ liệu: *(điền sau khi nhóm chốt)*
 
 ## Cấu trúc dự án
